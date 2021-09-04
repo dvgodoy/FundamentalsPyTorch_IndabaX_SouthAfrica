@@ -1,4 +1,4 @@
-# PyTorch 101: building a model step-by-step
+# Fundamentas of PyTorch: building a model step-by-step
 
 Learn the basics of building a PyTorch model using a structured, incremental and from first principles approach. Find out why PyTorch is the fastest growing Deep Learning framework and how to make use of its capabilities: autograd, dynamic computation graph, model classes, data loaders and more.
 
@@ -6,7 +6,7 @@ The main goal of this session is to show you how PyTorch works: we will start wi
 
 We will use Google Colab and work our way together into building a complete model in PyTorch. You should be comfortable using Jupyter notebooks, Numpy and, preferably, object oriented programming.
 
-Open it in Google Colab [PyTorch101_Colab.ipynb](https://colab.research.google.com/github/dvgodoy/PyTorch101_ODSC_Europe2021/blob/master/PyTorch101_Colab.ipynb).
+Open it in Google Colab [Fundamentals_PyTorch_Colab.ipynb](https://colab.research.google.com/github/dvgodoy/FundamentalsPyTorch_IndabaX_SouthAfrica/blob/master/Fundamentals_PyTorch_Colab.ipynb).
 
 If you'd rather use a local environment, please follow these steps (assuming you use Anaconda):
 
