@@ -1,4 +1,4 @@
-# Fundamentas of PyTorch: building a model step-by-step
+# Fundamentals of PyTorch: building a model step-by-step
 
 Learn the basics of building a PyTorch model using a structured, incremental and from first principles approach. Find out why PyTorch is the fastest growing Deep Learning framework and how to make use of its capabilities: autograd, dynamic computation graph, model classes, data loaders and more.
 
