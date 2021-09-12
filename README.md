@@ -22,6 +22,6 @@ If you'd rather use a local environment, please follow these steps (assuming you
 
 - Install torchviz: `pip install torchviz`
 
-- Clone this repo: `git clone https://github.com/dvgodoy/PyTorch101_ODSC_Europe2021.git`
+- Clone this repo: `git clone https://github.com/dvgodoy/FundamentalsPyTorch_IndabaX_SouthAfrica.git`
 
 - Start Jupyter: `jupyter notebook`
